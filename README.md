@@ -13,6 +13,9 @@ To run the code successfully, please ensure you have all the required libraries 
 The project is structured as follows:
 
 data/: Contains all the data tables used for analyses.
+
 raw_data.ipynb: Notebook containing detailed data preprocessing, analysis, and visualizations.
+
 findings.ipynb: Notebook containing straightforward answers to questions and summary dashboards.
-Feel free to explore the project and delve into the analyses performed!
+
+## Feel free to explore the project and delve into the analyses performed!
